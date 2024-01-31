@@ -1,6 +1,6 @@
 # React + Vite  / Reux
 
-Typing Speed Test (Live Demo)[https://nnakress.github.io/react-typing-speed-test/]
+Typing Speed Test [Live Demo](https://nnakress.github.io/react-typing-speed-test/)
 
  * React + Vite
  * Redux + Redux Toolkit
