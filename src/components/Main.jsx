@@ -15,7 +15,7 @@ const Main = () => {
         <InputsRow />
       </main>
       <footer className="w-full bg-gray-200 text-gray-400 text-2xl font-bold p-3 text-center absolute bottom-0">
-        <a href="">NakreS Develeopment - Github</a>
+        <a href="https://github.com/NNakreSS/react-typing-speed-test">NakreS Develeopment - Github</a>
       </footer>
     </>
   );
